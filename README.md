@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-<enter your URL here>
-https://deploy-this-repo-parkerdh03.vercel.app/
+<https://deploy-this-repo-parkerdh03.vercel.app/>
+
 
